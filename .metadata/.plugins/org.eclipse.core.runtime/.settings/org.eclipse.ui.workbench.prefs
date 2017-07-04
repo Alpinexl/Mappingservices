@@ -1,0 +1,7 @@
+ENABLED_DECORATORS=com.axway.md.bdoc.ui.decorators.BDocStructureErrDecorator\:true,com.axway.ms.mb.adf.ui.ADFDecorator\:true,com.axway.ms.mb.map.ui.viewdecorator\:true,com.axway.ms.mb.ui.decorator.mapx4\:false,com.axway.ms.metadata.ui.decorator\:true,com.axway.ms.project.ui.decorators.MSLightweightDecorator\:true,com.axway.ms.project.ui.decorators.ProjectEditorDecoratorr\:true,com.axway.ms.project.ui.decorators.SharedProjectDecorator\:true,com.axway.ms.team.svn.commons.ui.decorators.globalResource\:true,com.axway.ms.team.svn.commons.ui.decorator.repository\:true,com.axway.ms.team.svn.commons.ui.decorator.lockedProject\:true,com.axway.ms.team.svn.commons.ui.decorator.projectRoot\:true,org.eclipse.jdt.ui.override.decorator\:true,org.eclipse.jdt.ui.interface.decorator\:false,org.eclipse.jdt.ui.buildpath.decorator\:true,org.eclipse.ui.LinkedResourceDecorator\:true,org.eclipse.ui.VirtualResourceDecorator\:true,org.eclipse.ui.ContentTypeDecorator\:true,org.eclipse.ui.ResourceFilterDecorator\:false,org.tigris.subversion.subclipse.ui.decorator\:true,
+UIActivities.org.eclipse.equinox.p2.ui.sdk.classicUpdate=true
+UIActivities.org.eclipse.run.activity=true
+UIActivities.org.eclipse.texteditor.activity=true
+UIActivities.org.eclipse.update.activity=true
+UIActivities.org.eclipse.workbench.activity=true
+eclipse.preferences.version=1
